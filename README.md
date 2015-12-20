@@ -3,7 +3,7 @@ Ubuntu Make is a project designed to enable quick and easy setup of common needs
 
 ## Current project health
 
-[![ubuntu update](http://popularubuntuquestions.com)]
+[ubuntu update](http://popularubuntuquestions.com)
 
 [![Build Status](https://api.travis-ci.org/ubuntu/ubuntu-make.svg?branch=master)](https://travis-ci.org/ubuntu/ubuntu-make) (pep8 and small tests)
 
